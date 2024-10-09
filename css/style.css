@@ -184,7 +184,7 @@ body {
   padding: 2rem;
 }
 .menu .row .menu-card img {
-  border-radius: 50%;
+  border-radius: 25%;
   width: 80%;
 }
 .menu .row .menu-card img {
@@ -237,31 +237,7 @@ body {
   cursor: pointer;
 }
 
-/* Footer */
-footer {
-  background-color: var(--primary);
-  text-align: center;
-  padding: 1rem 0;
-  margin-top: 3rem;
-}
-footer .socials {
-  padding: 1rem 0;
-  
-}
-footer .socials a {
-  margin: 0 10px;
-  color: white;
-  font-size: 1.5rem;
-}
-footer .links {
-  margin: 1rem 0;
-}
 
-footer .links a {
-  margin: 0 15px;
-  color: white;
-  text-decoration: none;
-}
 /* Media Queries */
 
 /* Laptop */
