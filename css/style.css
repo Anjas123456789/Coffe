@@ -236,10 +236,11 @@ body {
   background-color: var(--primary);
   cursor: pointer;
 }
+
 footer {
   background-color: var(--primary);
   text-align: center;
-  padding: 1rem 0;
+  padding: 1rem 0 2rem;
   margin-top: 3rem;
 }
 footer .socials {
@@ -259,6 +260,13 @@ footer .links {
 footer .links a {
   color: #fff;
   padding: 0.7rem 1rem;
+}
+footer .credite {
+  font-size: 0.8rem;
+}
+footer .credite a{
+  color: var(--bg);
+  font-weight: 700;
 }
 
 
